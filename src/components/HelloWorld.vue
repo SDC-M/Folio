@@ -35,7 +35,6 @@
 
   .container {
     @include mixin.flex-center-center;
-    height: 100%;
   }
 
   .text-container {

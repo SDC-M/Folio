@@ -1,0 +1,37 @@
+@media screen and (max-width: 540px) {
+  .wrapper {
+    flex-direction: column !important;
+  }
+
+  .content-container {
+    margin: 1em;
+    height: 90% !important;
+  }
+
+  ul {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .navbar-container {
+    flex-direction: row !important;
+    height: auto !important;
+  }
+
+  .navbar-wrapper {
+    height: auto !important ;
+  }
+
+  .icon {
+    width: 25px !important;
+  }
+
+  .active {
+    width: 100%;
+  }
+
+  .content-wrapper {
+    height: 90vh !important;
+    align-items: start !important;
+  }
+}

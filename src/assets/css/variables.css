@@ -1,0 +1,36 @@
+:root {
+  /* LIGHT MODE */
+  /* fonts colors */
+  --font-color: black;
+
+  /* backgrounds colors */
+  --body-background-color: rgb(162, 162, 162);
+  --navbar-background-color: rgb(220, 220, 220);
+
+  /* hover colors */
+  --navbar-hover-color: rgb(212, 193, 151);
+
+  /* icon colors */
+  --icon-color: black;
+
+  /* border colors */
+  --border-color: rgb(132, 116, 84);
+}
+
+.dark {
+  /* DARK MODE */
+  /* fonts colors */
+  --font-color: white;
+
+  --body-background-color: rgb(45, 43, 43);
+  --navbar-background-color: rgb(67, 67, 67);
+
+  /* hover colors */
+  --navbar-hover-color: rgb(132, 116, 84);
+
+  /* icon colors */
+  --icon-color: white;
+
+  /* border colors */
+  --border-color: white;
+}
